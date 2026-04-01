@@ -7,5 +7,8 @@ This project was created to expand my skill set into Python, starting with funda
 
 ## 🎯 Reference
 <details>
-   - https://www.crackingthecodinginterview.com/   
+   <div>
+       Please see this <a href="https://www.crackingthecodinginterview.com/" target="_blank">book</a>. 
+   </div>
 </details> 
+ 
